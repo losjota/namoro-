@@ -1,2 +1,14 @@
-# namoro-
-para cassais 
+[script.js](https://github.com/user-attachments/files/24354489/script.js)
+[styles.css](https://github.com/user-attachments/files/24354490/styles.css)[payment.js](https://github.com/user-attachments/files/24354503/payment.js)
+[pagamento.html](https://github.com/user-attachments/files/24354502/pagamento.html)
+[nossa-historia.html](https://github.com/user-attachments/files/24354501/nossa-historia.html)
+[musicas.html](https://github.com/user-attachments/files/24354500/musicas.html)
+[music.js](https://github.com/user-attachments/files/24354499/music.js)
+[index.html](https://github.com/user-attachments/files/24354498/index.html)
+[history.js](https://github.com/user-attachments/files/24354497/history.js)
+[gallery.js](https://github.com/user-attachments/files/24354496/gallery.js)
+[galeria.html](https://github.com/user-attachments/files/24354495/galeria.html)
+[CONFIGURACAO_PAGAMENTO.md](https://github.com/user-attachments/files/24354494/CONFIGURACAO_PAGAMENTO.md)
+[backend-example.js](https://github.com/user-attachments/files/24354493/backend-example.js)
+[texts.js](https://github.com/user-attachments/files/24354492/texts.js)
+[textos.html](https://github.com/user-attachments/files/24354491/textos.html)
